@@ -1,5 +1,5 @@
 package GPtoGM
 
 func Print() string {
-	return "GPtoGM v2.0.0"
+	return "GPtoGM v3.0.0"
 }
